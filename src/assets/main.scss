@@ -1,0 +1,13 @@
+body{
+
+    display: flex;
+    flex-direction: row;
+}
+
+
+.main-comp-nav{
+    background-color: white;
+    // position: absolute;
+    z-index: 99;
+}
+
