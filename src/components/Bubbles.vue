@@ -35,15 +35,16 @@
                 <img class="burn" src="../assets/k8s.png" alt="">
             </div>
 
+           <a class="projects" href="https://github.com/tokelo-12"><p>Projects</p></a>
 
-            <div class="tech-stack">
+            <!-- <div class="tech-stack">
                 <h4>Built With :</h4>
 
                 <div class="stack-logos">
                     <img src="../assets/TS.png" alt="">
                     <img src="../assets/logo.svg" alt="">
                 </div>
-            </div>
+            </div> -->
         </div>    
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1">
         <defs>
